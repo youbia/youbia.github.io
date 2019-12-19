@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://godweiyang.com/archives/index.html</loc>
-    
-    <lastmod>2019-09-25T14:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://godweiyang.com/categories/index.html</loc>
     
     <lastmod>2019-09-25T14:13:10.000Z</lastmod>
@@ -44,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://godweiyang.com/friends/index.html</loc>
+    <loc>https://godweiyang.com/archives/index.html</loc>
     
     <lastmod>2019-09-25T14:13:10.000Z</lastmod>
     
@@ -52,6 +45,13 @@
   
   <url>
     <loc>https://godweiyang.com/tags/index.html</loc>
+    
+    <lastmod>2019-09-25T14:13:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://godweiyang.com/friends/index.html</loc>
     
     <lastmod>2019-09-25T14:13:10.000Z</lastmod>
     
